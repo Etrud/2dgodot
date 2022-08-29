@@ -10,4 +10,6 @@ export_presets.cfg
 .mono/
 data_*/
 
+
+# Ignore Folders in project on git
 addons/*
